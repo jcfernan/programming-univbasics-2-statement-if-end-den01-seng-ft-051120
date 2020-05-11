@@ -1,3 +1,3 @@
-if true
+if 
   puts "This code runs!"
 end
