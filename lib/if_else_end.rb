@@ -1,3 +1,6 @@
-if 
-  puts "This code runs!"
+if true
+  puts "Even!"
+else
+  puts "Odd!"
+
 end
